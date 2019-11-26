@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MA322764/Pipelines-java/_apis/build/status/MA322764.pipelines-java?branchName=master)](https://dev.azure.com/MA322764/Pipelines-java/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
