@@ -1,5 +1,6 @@
 [![Build Status](https://dev.azure.com/uhag/Pipeline%20testing/_apis/build/status/ubehaga.pipelines-java__cloned%20(1)?branchName=master)](https://dev.azure.com/uhag/Pipeline%20testing/_build/latest?definitionId=3&branchName=master)
 
+
 [![Build Status](https://dev.azure.com/MA322764/Pipelines-java/_apis/build/status/MA322764.pipelines-java?branchName=master)](https://dev.azure.com/MA322764/Pipelines-java/_build/latest?definitionId=7&branchName=master)
 
 
